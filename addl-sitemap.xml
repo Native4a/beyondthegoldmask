@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on 23 10 月, 2025 at 9:54 上午 by All in One SEO v4.8.8 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on 23 10 月, 2025 at 10:09 上午 by All in One SEO v4.8.8 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://blackcloudsummer.com/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/]]></loc>
+		<loc><![CDATA[https://blackcloudsummer.com/]]></loc>
 		<lastmod><![CDATA[2021-11-08T04:36:03+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
