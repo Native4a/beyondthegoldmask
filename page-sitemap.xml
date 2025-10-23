@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on 23 10 月, 2025 at 7:09 上午 by All in One SEO v4.8.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on 23 10 月, 2025 at 9:36 上午 by All in One SEO v4.8.8 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset
@@ -31,7 +31,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/whatwedo.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/whatwedo.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -40,7 +41,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/contact.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/contact.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -55,34 +57,44 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/icon_1.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/icon_1.png]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/icon_2.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/icon_2.png]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/icon3.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/icon3.png]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/team1.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/team1.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/team2.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/team2.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/team3.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/team3.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/creative-agency.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/creative-agency.png]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/webtechnology.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/webtechnology.png]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/tlagency.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/tlagency.png]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/trueagency.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2021/11/trueagency.png]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>
